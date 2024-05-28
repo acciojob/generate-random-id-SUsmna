@@ -2,7 +2,7 @@ function makeid(l) {
   // write your code here
 	
 	var characters ='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-	var result = ' ';
+	var result = '';
    // const charactersLength = characters.length;
 	
     for ( var i = 0; i < l; i++ ) {
